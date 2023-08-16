@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [16/Aug/2023:15:13:20 +0700] "GET /djapra/maven/bootcamp-java-webapp/ HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [16/Aug/2023:15:14:10 +0700] "GET /bootcamp-java-webapp/ HTTP/1.1" 200 52 http-bio-8080-exec-3 996
